@@ -1,0 +1,23 @@
+/* Global Styles
+-------------------------------*/
+body {
+}
+
+
+/* Header and footer
+-------------------------------*/
+header, footer {
+  background: #2b2d42;
+}
+
+/* Work Experience
+-------------------------------*/
+.work {
+  background: #edf2f4;
+}
+
+/* Education
+-------------------------------*/
+.education {
+  background: #8d99ae;
+}
